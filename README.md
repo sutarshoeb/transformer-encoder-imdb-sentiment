@@ -100,5 +100,5 @@ If you use this code, please cite:
 ```
 Sutar, S.S. (2025). Building a Transformer Encoder from Scratch: 
 A Comparative Evaluation Against Classical Machine Learning Models 
-for Sentiment Classification. M.Tech Project, Symbiosis Institute of Technology, Pune.
+for Sentiment Classification, Symbiosis Institute of Technology, Pune.
 ```
