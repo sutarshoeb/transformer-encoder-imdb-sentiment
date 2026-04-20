@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the implementation for the research paper:
+This repository contains the implementation for the NLP Project
 
 **"Building a Transformer Encoder from Scratch: A Comparative Evaluation Against Classical Machine Learning Models for Sentiment Classification"**
 
