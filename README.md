@@ -1,6 +1,6 @@
 # Transformer Encoder from Scratch — IMDB Sentiment Classification
 
-> **M.Tech AIML Project | Shoeb Shakil Sutar | PRN: 25070149022**
+> **Natural Language Processing and Applications | Shoeb Shakil Sutar | PRN: 25070149022**
 
 ## Overview
 
@@ -100,5 +100,5 @@ If you use this code, please cite:
 ```
 Sutar, S.S. (2025). Building a Transformer Encoder from Scratch: 
 A Comparative Evaluation Against Classical Machine Learning Models 
-for Sentiment Classification. M.Tech Project, [University Name].
+for Sentiment Classification. M.Tech Project, Symbiosis Institute of Technology, Pune.
 ```
